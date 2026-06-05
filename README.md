@@ -118,7 +118,8 @@ Ensuite, le flag est récupéré dans `logcat`.
 adb logcat -d | findstr /i "BigBoss Skull YML Error AndroidRuntime pwnsec"
 ```
 
-![Flag dans logcat](screens/07_launch_and_flag.png)
+![Flag dans logcat]<img width="1662" height="855" alt="07_launch_and_flag" src="https://github.com/user-attachments/assets/144aa686-f330-4e50-9f83-2382e845e102" />
+
 
 ## Flag
 
