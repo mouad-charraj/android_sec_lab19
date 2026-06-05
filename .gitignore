@@ -1,0 +1,7 @@
+﻿screens/ignored/
+*.apk
+*.jks
+snake_smali/
+snake_norsc/
+*.bak
+*.codexbak
